@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Note Pad</string>
+    <string name="info">Info</string>
+    <string name="add">Add</string>
+    <string name="multi_notes">Multi Notes</string>
+    <string name="_2019_sojeong_yang">© 2019, Sojeong Yang</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="textview">textView</string>
+    <string name="original_text">original text</string>
+    <string name="item">Item</string>
+</resources>
